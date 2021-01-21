@@ -60,3 +60,5 @@ It will switch to the branch as named as branch-name
 ## git checkout branch-name
 It will switch to the branch as named as branch-name
 
+## git merge newBranch
+It will merge the newBranch branch into the current branch.
