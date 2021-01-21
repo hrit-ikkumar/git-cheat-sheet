@@ -26,3 +26,21 @@ add origin to the current git repo folder in local computer
 
 ## git push -u origin main
 push all the changes to git server and branch should be main
+
+## git add .
+add all the files' changes into git repo.
+
+## git commit 
+commit or save all the changes
+
+## git push
+push all the changes to github server
+
+## git rm --cached index.html 
+discard all the changes of a file 
+
+## git status
+see the status of the git repo 
+
+## git restore index.html
+discard all the changes in working directory
