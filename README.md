@@ -64,3 +64,9 @@ It will switch to the branch as named as branch-name
 
 ## git merge newBranch
 It will merge the newBranch branch into the current branch.
+
+## git fetch 
+fetches all the changes from remote repo
+
+## git pull
+fetches & merges all the changes into the current branch
