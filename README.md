@@ -49,6 +49,3 @@ pushing to a particular branch in git repo
 
 ## git restore --staged index.html
 to unstage index.html file // won't discard the changes (In simple words, It will only unstage the file from current git add index.html & won't work after the commit)
-
-## git merge 
-It merges all the changes 
