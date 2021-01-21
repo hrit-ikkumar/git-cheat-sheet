@@ -44,3 +44,7 @@ see the status of the git repo
 
 ## git restore index.html
 discard all the changes in working directory
+
+## git push -u origin master 
+pushing to a particular branch in git repo
+
