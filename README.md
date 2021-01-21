@@ -37,16 +37,16 @@ commit or save all the changes
 push all the changes to github server
 
 ## git rm --cached index.html 
-discard all the changes of a file 
+discard all the changes of a file or simply removes the file from the current git repo
 
 ## git status
 see the status of the git repo 
 
 ## git restore index.html
-discard all the changes in working directory
+discard all the changes in working directory // doesn't work after the commit only before commit it will work
 
 ## git push -u origin master 
 pushing to a particular branch in git repo
 
 ## git restore --staged index.html
-to unstage index.html file // won't discard the changes
+to unstage index.html file // won't discard the changes (In simple words, It will only unstage the file from current git add index.html & won't work after the commit)
