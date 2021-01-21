@@ -23,7 +23,6 @@ select branch as main and also default
 ## git remote add origin https://github.com/hrit-ikkumar/git-cheat-sheet.git
 add origin to the current git repo folder in local computer
 
-
 ## git push -u origin main
 push all the changes to git server and branch should be main
 
@@ -50,3 +49,6 @@ pushing to a particular branch in git repo
 
 ## git restore --staged index.html
 to unstage index.html file // won't discard the changes (In simple words, It will only unstage the file from current git add index.html & won't work after the commit)
+
+## git merge 
+It merges all the changes 
