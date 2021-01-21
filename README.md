@@ -56,3 +56,7 @@ It will create new branch as named as new-branch-name
 
 ## git switch branch-name
 It will switch to the branch as named as branch-name
+
+## git checkout branch-name
+It will switch to the branch as named as branch-name
+
