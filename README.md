@@ -23,7 +23,6 @@ select branch as main and also default
 ## git remote add origin https://github.com/hrit-ikkumar/git-cheat-sheet.git
 add origin to the current git repo folder in local computer
 
-
 ## git push -u origin main
 push all the changes to git server and branch should be main
 
