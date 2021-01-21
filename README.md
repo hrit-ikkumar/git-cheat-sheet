@@ -48,5 +48,5 @@ discard all the changes in working directory
 ## git push -u origin master 
 pushing to a particular branch in git repo
 
-## git restore --stagged index.html
-to unstage index.html file
+## git restore --staged index.html
+to unstage index.html file // won't discard the changes
